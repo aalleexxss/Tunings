@@ -1,0 +1,6 @@
+standard
+e,a,d,g,b,e
+drop d
+d,a,d,g,b,e
+open a add 4
+d,a,e,a,c#,e
