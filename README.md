@@ -46,4 +46,4 @@ Another improvement would be adding a GUI instead of doing everything through a 
 ## How to Run This Program
 
 Simply clone this repository, or just the ````/code```` directory, then open ````tunings```` in your favorite IDE.
-Note that stored_tunings.txt is the text file used to 
+Note that stored_tunings.txt is the text file used to save and load tunings.
