@@ -7,13 +7,13 @@ of 12 notes known as the chromatic scale. Each scale is defined by a key and mod
 starting note of the scale and the mode represents the steps taken to get the rest of the notes in the scale.
 For example, the C major scale can be obtained from the chromatic scale as follows:
 
-![Scale](https://github.com/aalleexxss/Tunings/blob/master/images/scale.PNG)
+![Scale](https://github.com/aalleexxss/Tunings/blob/main/images/scale.png?raw=true)
 
 Thus the notes in a C major scale are C, D, E, F, G, A, and B.
 
 ## Program Flow
 
-![Scale](https://github.com/aalleexxss/Tunings/blob/master/images/programFlow.PNG)
+![Program flow](https://github.com/aalleexxss/Tunings/blob/main/images/programFlow.png?raw=true)
 
 Upon starting the program, the user is prompted to select a guitar tuning. This can be done by manually entering
 the note of each string, or by loading a saved tuning. From here, all the notes of the fretboard are generated.
