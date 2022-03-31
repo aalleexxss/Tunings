@@ -14,6 +14,9 @@ Thus the notes in a C major scale are C, D, E, F, G, A, and B.
 ## Program Flow
 
 ![Program flow](https://github.com/aalleexxss/Tunings/blob/main/images/programFlow.png?raw=true)
+<p align="center">
+  <img src="https://github.com/aalleexxss/Tunings/blob/main/images/programFlow.png?raw=true" />
+</p>
 
 Upon starting the program, the user is prompted to select a guitar tuning. This can be done by manually entering
 the note of each string, or by loading a saved tuning. From here, all the notes of the fretboard are generated.
