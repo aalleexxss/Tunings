@@ -7,13 +7,14 @@ of 12 notes known as the chromatic scale. Each scale is defined by a key and mod
 starting note of the scale and the mode represents the steps taken to get the rest of the notes in the scale.
 For example, the C major scale can be obtained from the chromatic scale as follows:
 
-![Scale](https://github.com/aalleexxss/Tunings/blob/main/images/scale.png?raw=true)
+<p align="center">
+  <img src="https://github.com/aalleexxss/Tunings/blob/main/images/scale.png?raw=true" />
+</p>
 
 Thus the notes in a C major scale are C, D, E, F, G, A, and B.
 
 ## Program Flow
 
-![Program flow](https://github.com/aalleexxss/Tunings/blob/main/images/programFlow.png?raw=true)
 <p align="center">
   <img src="https://github.com/aalleexxss/Tunings/blob/main/images/programFlow.png?raw=true" />
 </p>
